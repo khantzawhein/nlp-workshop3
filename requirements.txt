@@ -1,7 +1,5 @@
 pandas
 spacy
-re
 emoji
-csv
 scikit-learn
 numpy
